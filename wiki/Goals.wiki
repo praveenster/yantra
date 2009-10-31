@@ -1,0 +1,11 @@
+#summary Page to describe project goals.
+
+= Goals =
+
+The overall goals/objectives of this project are:
+  # code only visually.
+  # intermediate representation (possibly in xml) with bindings to any language, sdk, framework etc.
+  # components can either be white box or black box, allowing for connecting to closed source libraries.
+  # business logic description using a variety of techniques:
+    * flowcharts
+    * sequence diagrams
