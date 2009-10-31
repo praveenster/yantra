@@ -3,9 +3,15 @@
 = Goals =
 
 The overall goals/objectives of this project are:
-  # code only visually.
+  # code only visually. user would typically not modify the generated source, similar to how users typically don't modify the generated assembly language from a compiler.
   # intermediate representation (possibly in xml) with bindings to any language, sdk, framework etc.
   # components can either be white box or black box, allowing for connecting to closed source libraries.
   # business logic description using a variety of techniques:
     * flowcharts
     * sequence diagrams
+  # this tool should be able to generate the code for the tool itself!
+  # support version control to merge models
+  # tool needs to abstract away a lot of the code level details, similar to how the compiler generates assembly language instructions and abstracts away the machine details from the user.
+  #  tool will contain a huge library of template/patterns for domain specific and domain independent problems that have elegant solutions. for example, parsing of buffers, protocol implementations etc.
+  # tool to allow the user(s) to view the system from a variety of angles (ui, component view, hierarchical view etc.)
+  # overall goal is to allow the user to describe what they want to do visually rather than how to implement it and let the tool handle the rest.
