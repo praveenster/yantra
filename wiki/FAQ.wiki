@@ -11,4 +11,6 @@
     the idea is to create template for every aspect of the software ranging from building blocks such as loops to entire blocks of functionality. it goes beyond just describing the pattern/approach and instantiates the template for the task at hand. yes, in some ways, a template is similar to a pattern.
   # why don't you have support for language xyz or sdk abc?
     good question! we would like to provide support for as many languages, frameworks and sdk's but we have limited resources and are focusing on the ones we think are currently widely being used. if you feel that the one you use is important and needs attention, please send us an e-mail with as many details as possible. we will add it to the issues list and prioritize it. since we are also working on this project in our spare time, we wouldn't mind if you left us a donation too!
+  # i am an expert programer and i looked at the generated code from your tool. i think i could have done a better job of optimizing the code.
+    excellent point! please do send us your optimal approach and we would like to update our templates. if you have the time, please update the template(s) and send us a patch and we would be more than happy to incorporate your change.
   # 
