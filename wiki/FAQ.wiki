@@ -2,4 +2,7 @@
 
 = FAQ =
   # why is the project called _yantra_? what does it mean?
-  yantra is the sanskrit word for "instrument" or "machine". [http://en.wikipedia.org/wiki/Yantra wikipedia]
+  yantra is the sanskrit word for "instrument" or "machine". refer to [http://en.wikipedia.org/wiki/Yantra wikipedia] for more.
+
+  # what is _sanskrit_?
+  
