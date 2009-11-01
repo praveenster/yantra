@@ -1,0 +1,5 @@
+#summary Frequently Asked Questions.
+
+= FAQ =
+  # Why is the project called _yantra_? What does it mean?
+    Yantra
