@@ -1,0 +1,1 @@
+a framework that consists of generic templates that solve well known problems allowing the user to create an instance of a collection of templates to develop a solution, which if factored correctly can serve as another template. the overall goal is to provide the ability to develop software without writing any code and have the ability to model, simulate and verify it.
